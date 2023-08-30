@@ -1,0 +1,2 @@
+# LaravelPermission
+command list
